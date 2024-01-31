@@ -30,15 +30,8 @@ Open the index.html file in your browser to see what you've built.
 
 Feel free to mess around with the code, experiment, and see what happens.
 
-**Let's Connect and Learn Together!🤝**
-
-Twitter
-
-LinkedIn
-
-Personal Blog
-
 **Special Thanks to Patience! 🙏**
+
 A big shoutout to patience for sticking with me through all the code errors. Learning to code is a journey, not a sprint!
 
 Now, let's embrace the learning curve and enjoy the process! Happy coding! 🌈👩‍💻
