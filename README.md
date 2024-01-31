@@ -18,18 +18,24 @@ Hey there! 👋 This is my humble corner on GitHub where I'm diving into the wor
 
 
 *Open in Your Editor:*
+
 Use any code editor you like (Visual Studio Code, Sublime, or others) to explore the code.
 
 
 *Launch in Your Browser:*
+
 Open the index.html file in your browser to see what you've built.
 
 *Learn and Play:*
+
 Feel free to mess around with the code, experiment, and see what happens.
 
 **Let's Connect and Learn Together!🤝**
+
 Twitter
+
 LinkedIn
+
 Personal Blog
 
 **Special Thanks to Patience! 🙏**
