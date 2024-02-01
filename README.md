@@ -14,7 +14,7 @@ Hey there! 👋 This is my humble corner on GitHub where I'm diving into the wor
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YourUsername/WebDev-Playground.git
+   [git clone https://github.com/YourUsername/WebDev-Playground.git](https://github.com/SuBSoNiC251/Web-Dev.git)
 
 
 *Open in Your Editor:*
