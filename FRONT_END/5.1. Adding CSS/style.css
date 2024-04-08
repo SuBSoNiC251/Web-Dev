@@ -1,13 +1,7 @@
 .GKS-adl { 
-        display: flew; 
-        align-items: center; 
-        height: 40px; 
-        justify-content: center; 
-        background: #061540; 
-        border: 1px solid #ddd7e7; 
-        box-sizing: border-box; 
-        border-radius: 20px; 
-        min-width: 38px; 
-        cursor: pointer;
-        color :bisque
+    display: flex;
+    justify-content: center;
+        background-color: rgb(32, 32, 97);
+        font-family: 'Times New Roman', Times, serif;
+        color: rgb(245, 233, 65);
     }
