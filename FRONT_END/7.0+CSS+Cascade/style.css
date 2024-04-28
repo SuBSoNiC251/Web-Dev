@@ -1,0 +1,33 @@
+/* Don't change the existing CSS. */
+
+.box {
+  background-color: blue;
+  padding: 10px;
+}
+
+p[draggable] {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+  text-align:end;
+  font-weight:bolder;
+  font-size:30px;
+}
+
+.white-text{
+  color: white;
+}
+
+#outer-box{
+  border: 10px solid purple;
+  padding: 10px;
+}
+
+.inner-box{
+  background-color: red;
+  padding: 10px;
+  text-align: center;
+  text-decoration:underline;
+  text-decoration-color: chartreuse;
+}
+
