@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+li {
+  display: inline-block;
+  border: solid black;
+  padding: 20px;
+  width: 50%;
+}
+span4{
+	display : inline-block;
+    border : 30px solid black;
+}
+</style>
+</head>
+<body>
+
+<p>Display a list of links as a horizontal menu:</p>
+
+<ul>
+ <div>
+  <input id="htmlRadio" type="radio" name="programmingLanguage" checked/> <li><a href="/html/default.asp" target="_blank">HTML</a></li>
+ </div>
+ <div>
+  <input id="cssRadio" type="radio" name="programmingLanguage"/><li><a href="/css/default.asp" target="_blank">CSS</a></li>
+ </div>
+ <div>
+  <input id="jsRadio" type="radio" name="programmingLanguage"/><li><a href="/js/default.asp" target="_blank">JavaScript</a></li>
+ </div>
+</ul>
+
+<fieldset>
+  <legend>Select a maintenance drone:</legend>
+
+  <div>
+    <input type="radio" id="huey" name="drone" value="huey" checked />
+    <label for="huey">Huey</label>
+  </div>
+
+  <div>
+    <input type="radio" id="dewey" name="drone" value="dewey" />
+    <label for="dewey">Dewey</label>
+  </div>
+
+  <div>
+    <input type="radio" id="louie" name="drone" value="louie" />
+    <label for="louie">Louie</label>
+  </div>
+</fieldset>
+<br/><br/>
+<span4>
+<input type="text" name="inputName" value="defaultValue" id="inputId" class="inputClass" placeholder="Enter text">
+</span4>
+</body>
+</html>
