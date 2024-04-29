@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <title>OVERFLOW CSS</title>
+        <style>
+            .box li {
+                display:inline-block;
+                text-decoration-line:none ;
+                padding:10px;
+                margin:10px;
+                border: 2px solid black;
+                background-color: rgb(62, 203, 222);
+            }
+
+            .box ol :hover{
+                display: inline-block;
+                background-color: rgb(52, 164, 179);
+            }
+            .box > ol > li:hover{
+                
+                border: 2px solid white;
+                border: none;              
+            }
+            bold{
+                color: rgb(253, 148, 0);
+            }
+            
+        </style>
+    </head>
+
+    <body>
+        <h1 >CSS <bold>OVERFLOW</bold> properties</h1>
+        <hr style="border: 2px dashed plum; "/>
+        <div class="box">
+            <ol>
+                <li><a href="./overflow_hidden.html" >HIDDEN</a></li>
+                <li><a href="./overflow_visible.html" >VISIBLE</a></li>
+                <li><a href="./overflow_scroll.html" >SCROLL</a></li>
+                <li><a href="./overflow_auto.html" >AUTO</a></li>
+                <li><a href="./overflow_XandY.html" >X and Y</a></li>
+            </ol>
+        </div>
+    </body>
+</html>
